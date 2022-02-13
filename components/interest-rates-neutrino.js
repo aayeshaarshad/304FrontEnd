@@ -8,7 +8,7 @@ export default function InterestRatesNeutrino() {
 
 
     return (
-        <div className="card overflow-auto">
+        <div className="card overflow-auto h-96">
             <div className="card-body">
                 <h5 className="card-title">All Markets data</h5>
                 <h6 className="card-subtitle mb-2 text-muted">Waves vs other crypto</h6>
